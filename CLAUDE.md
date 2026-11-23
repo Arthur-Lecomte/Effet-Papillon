@@ -2,8 +2,7 @@
 
 Ce fichier guide l'IA qui travaille sur ce projet. Contrairement au repo
 portfolio, il est **versionné et public** : tout ce qui y entre doit être
-publiable. Il arrive via le template `demo-template` ; adapte la section
-« Contexte » au projet réel et garde le reste.
+publiable.
 
 ## Contexte
 
@@ -11,8 +10,10 @@ publiable. Il arrive via le template `demo-template` ; adapte la section
   son portfolio [arthurlecomte.fr](https://arthurlecomte.fr), sous
   `/demos/<slug>/`. Ce repo reste la source de vérité du code ; le
   portfolio n'en héberge qu'une copie du build.
-- TODO(arthur) : décrire ici en 2-3 lignes ce que fait le projet et où il
-  en est.
+- « Effet Papillon » (slug `effet-papillon`) : simulation 2D d'un double
+  pendule chaotique. Plusieurs pendules partent de conditions initiales
+  quasi identiques (nombre et écart réglables) et leurs trajectoires
+  divergent — traînées colorées et graphe de divergence à l'appui.
 
 ## Règles non négociables
 
